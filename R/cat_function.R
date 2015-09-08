@@ -17,6 +17,3 @@ cat_function <- function(love=TRUE){
 }
 
 
-
-
-
